@@ -1,1 +1,43 @@
+👥 Dashboard de Recursos Humanos — Power BI
 
+📌 Sobre o projeto
+Este projeto consiste no desenvolvimento de um Dashboard de Recursos Humanos utilizando Power BI, com o objetivo de transformar dados de colaboradores em informações visuais que auxiliem na análise e acompanhamento dos principais indicadores de RH.
+O projeto foi desenvolvido como parte do meu portfólio na área de Dados, aplicando conceitos de tratamento de dados, modelagem, criação de indicadores em DAX e desenvolvimento de dashboards interativos.
+
+🎯 Objetivos
+O dashboard foi desenvolvido para possibilitar uma visão geral do quadro de colaboradores e facilitar a análise de informações relacionadas à área de Recursos Humanos.
+Entre os principais objetivos estão:
+
+- Analisar a quantidade de colaboradores
+- Identificar a distribuição dos funcionários
+- Analisar colaboradores por departamento
+- Acompanhar indicadores relacionados aos colaboradores
+- Identificar padrões e tendências nos dados
+- Facilitar a interpretação das informações através de visualizações interativas
+
+🗂️ Fonte dos dados
+A base de dados utilizada neste projeto foi obtida a partir do Curso da Udemy PowerBI + SQLServer (https://www.udemy.com/course/powerbi-sqlserver/?couponCode=UDEAFFMX0926).
+Os dados foram utilizados para fins educacionais e de desenvolvimento de portfólio.
+
+🛠️ Ferramentas utilizadas
+- Power BI: desenvolvimento do dashboard e visualização dos dados
+- Power Query: limpeza, tratamento e transformação dos dados
+- DAX: criação de medidas e indicadores
+- Excel: organização e armazenamento da base de dados
+- Canva: desenvolvimento do layout e identidade visual
+- GitHub: documentação e disponibilização do projeto
+
+
+💡 Principais aprendizados
+
+O desenvolvimento deste projeto permitiu aplicar conhecimentos relacionados a:
+- Análise de dados
+- ETL e preparação de dados
+- Power Query
+- Modelagem de dados
+- DAX
+- Criação de KPIs
+- Visualização de dados
+- Design de dashboards
+- Storytelling com dados
+- Business Intelligence
